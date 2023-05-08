@@ -13,3 +13,5 @@ Hardware:
 - Clay for embedding the resistors and regulating the air humidity
 - A glass of water for passive humidity (~70%)
 - As housing any insulating material can be used. e.g. 20mm alu-laminated plates from BauderPIR
+- Power supply like Fritzbox 24V ~2.5A
+- Voltage converter from 24V to 5V LM2596 DC-DC (24V for heating, 5V for ESP8266)
